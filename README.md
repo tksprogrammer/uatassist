@@ -1,2 +1,2 @@
 TK Sokol UAT:Assistant application distribution.
-version 0.1.3.4
+version 0.1.3.5c
